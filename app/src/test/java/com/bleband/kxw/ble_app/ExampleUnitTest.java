@@ -1,4 +1,4 @@
-package com.kxw.ble_app;
+package com.bleband.kxw.ble_app;
 
 import org.junit.Test;
 

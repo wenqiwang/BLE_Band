@@ -1,4 +1,4 @@
-package com.kxw.ble_app;
+package com.bleband.kxw.ble_app;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.kxw.ble_app", appContext.getPackageName());
+        assertEquals("com.bleband.kxw.ble_app", appContext.getPackageName());
     }
 }
